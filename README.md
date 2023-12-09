@@ -1,8 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Manas Tare
-==================================================================================================================================
+Hi 👋 My name is Manas Tare
+===========================
 
 Engineering Student
 -------------------
+
+Enthusiastic engineering student passionate about turning innovative ideas into reality. Currently immersed in the world of IT, I love tackling complex challenges and finding elegant solutions. My GitHub is a playground where I experiment with code, collaborate on projects, and showcase my journey as a curious and aspiring engineer. Feel free to explore and connect—I'm always up for interesting discussions and collaborations! 🚀🔧
 
 * 🌍  I'm based in Mumbai, India
 
