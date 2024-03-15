@@ -37,14 +37,3 @@ As an engineering student, I am constantly seeking new technologies and explorin
 
 <br/>  
 
-
-![Profile views counter](https://komarev.com/ghpvc/?username=MagnusAustin&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
