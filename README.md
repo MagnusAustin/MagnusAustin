@@ -1,18 +1,46 @@
-Hi 👋 My name is Manas Tare
-===========================
+## Hey 👋, I'm Manas Tare!  
+  
 
-Engineering Student
--------------------
+<a href="https://twitter.com/MagnusAustin27" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/manas-tare-a69456278" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/MagnusAustin" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/manas_tare27" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+  
 
-Enthusiastic engineering student passionate about turning innovative ideas into reality. Currently immersed in the world of IT, I love tackling complex challenges and finding elegant solutions. My GitHub is a playground where I experiment with code, collaborate on projects, and showcase my journey as a curious and aspiring engineer. Feel free to explore and connect—I'm always up for interesting discussions and collaborations! 🚀🔧
-
-* 🌍  I'm based in Mumbai, India
 
 
-<b>My GitHub Stats</b>
+### Glad to see you here!  
+As an engineering student, I am constantly seeking new technologies and exploring them with a curious mind. My goal is to discover my true passion by gaining knowledge and experience in this field.  
+  
 
-<a href="http://www.github.com/MagnusAustin"><img src="https://github-readme-stats.vercel.app/api?username=MagnusAustin&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="MagnusAustin's GitHub stats" /></a>
+<br/>  
 
-<a href="http://www.github.com/MagnusAustin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MagnusAustin&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/MagnusAustin" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagnusAustin&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+## Rapidfire  
+<table><tr><td valign="top" width="50%">
+
+- 🔭 I’m currently working on [StudyBuddy AI](https://github.com/soham2403/helloworld-print-.git)  
+  
+
+- 🌱 I’m currently learning Advance JAVA  
+
+
+</td><td valign="top" width="50%">
+
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+
+
+</td></tr></table>  
+
+<br/>  
+
