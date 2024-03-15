@@ -30,7 +30,7 @@ As an engineering student, I am constantly seeking new technologies and explorin
 - 🔭 I’m currently working on [StudyBuddy AI](https://github.com/soham2403/helloworld-print-.git)  
   
 
-- 🌱 I’m currently learning Advance JAVA  
+- ☕ I’m currently learning Advance JAVA  
 
 
 </td></table>  
