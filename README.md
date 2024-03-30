@@ -27,7 +27,7 @@ As an engineering student, I am constantly seeking new technologies and explorin
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [StudyBuddy AI](https://github.com/soham2403/helloworld-print-.git)  
+- 🔭 I’m currently working on [StudyBuddy AI](https://github.com/MagnusAustin/URECK-A-THON-4.0.git)  
   
 
 - ☕ I’m currently learning Advance JAVA  
