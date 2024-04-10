@@ -1,6 +1,4 @@
 ## Hey 👋, I'm Manas Tare!  
-  
-
 <a href="https://twitter.com/MagnusAustin27" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
@@ -13,27 +11,5 @@
 <a href="https://instagram.com/manas_tare27" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-  
-
-
-
 ### Glad to see you here!  
 As an engineering student, I am constantly seeking new technologies and exploring them with a curious mind. My goal is to discover my true passion by gaining knowledge and experience in this field.  
-  
-
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working on [Custom Google Forms](https://github.com/MagnusAustin/CustomFeedbackForm.git)  
-  
-
-- ☕ I’m currently learning Advance JAVA  
-
-
-</td></table>  
-
-<br/>  
-
