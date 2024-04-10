@@ -11,5 +11,6 @@
 <a href="https://instagram.com/manas_tare27" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
+
 ### Glad to see you here!  
 As an engineering student, I am constantly seeking new technologies and exploring them with a curious mind. My goal is to discover my true passion by gaining knowledge and experience in this field.  
